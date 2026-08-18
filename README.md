@@ -28,8 +28,8 @@ building scalable, reliable, and user-focused software applications.
 
 ## 🌐 Connect With Me
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/shehroz-ahmad05/">
+<p align="center">
+  <a href="https://linkedin.com](https://www.linkedin.com/in/shehroz-ahmad05/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:sheryidk123@gmail.com">
@@ -43,43 +43,43 @@ building scalable, reliable, and user-focused software applications.
 
 ### 👨‍💻 Programming Languages
 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,cs,js,ts,python" />
 </p>
 
 ### 🎨 Frontend Development
 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,vite" />
 </p>
 
 ### ⚙️ Backend Development
 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
 </p>
 
 ### 🗄️ Databases & Backend Services
 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,postgresql" />
 </p>
 
 ### 🤖 AI / Machine Learning
 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv" />
 </p>
 
 ### ☁️ Cloud & Deployment
 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=docker,vercel,netlify,aws" />
 </p>
 
 ### 🛠️ Tools & Technologies
 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,postman,docker,vscode" />
 </p>
 
