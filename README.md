@@ -2,9 +2,9 @@
   <img src="./profile_banner.png" alt="Shehroz Ahmad" width="100%" />
 </p>
 
-<p align = "center">
-  <b> 💻 Software Engineer | Full-Stack Developer | Pakistan</b>
-</p>
+<h2 align = "center">
+   💻 Software Engineer | Full-Stack Developer | Pakistan
+</h2>
 
 <p align="center">
   I'm a Computer Science graduate and Software Engineer passionate about
